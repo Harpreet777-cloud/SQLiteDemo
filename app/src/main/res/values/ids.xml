@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="row_name" type="id" />
+    <item name="row_salary" type="id" />
+    <item name="row_department" type="id" />
+    <item name="row_joining_date" type="id" />
+</resources>
